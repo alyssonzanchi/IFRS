@@ -1,0 +1,20 @@
+Algoritmo Positivo/Negativo
+	numero;
+
+INICIO
+
+	escreva("Informe um número: ");
+	leia(numero);
+	
+	se numero >= 0
+	inicio-se
+		escreva("O número é positivo");
+	fim-se
+	
+	senão
+	inicio-se
+		escreva("O número é negativo");
+	fim-se
+	
+FIM
+	
